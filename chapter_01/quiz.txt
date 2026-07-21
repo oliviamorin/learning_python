@@ -1,6 +1,13 @@
 1. What are the six main reasons that people choose to use Python?
+  - Software quality - readability and coherence enable reusability and maintainability.
+  - Developer productivity - Python is generally many times more productive than compiled or statically typed languages. Code size is reduced which means less to type and debug. Not having compiling and link steps also increases speed.
+  - Program portability - Programs generally run unchanged on major platforms. There are libraries for portable GUIs, database access, etc. 
+  - Application support - Python has a large standard library supporting a wide array of application level programming tasks.
+  - Component integration - Python can invoke compiled libraries and be run by complied programs.
+- Love of craft - Python has great ease of use and built-in toolset. There are people who use it for fun.
 
 2. Name four notable companies or organizations using Python today.
+
 
 3. Why might you not want to use Python in an application?
 
