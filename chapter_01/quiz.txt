@@ -1,0 +1,7 @@
+1. What are the six main reasons that people choose to use Python?
+
+2. Name four notable companies or organizations using Python today.
+
+3. Why might you not want to use Python in an application?
+
+4. What can you do with Python?
